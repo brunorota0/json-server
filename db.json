@@ -13,12 +13,14 @@
           {
             "id": 1,
             "name": "Juan Pérez",
-            "rank": 1.2
+            "rank": 1.2,
+            "abbv": "JP"
           },
           {
             "id": 2,
             "name": "Luis García",
-            "rank": 0.9
+            "rank": 0.9,
+            "abbv": "LG"
           }
         ],
         "type": "competitivo",
@@ -39,7 +41,8 @@
           {
             "id": 3,
             "name": "Carlos López",
-            "rank": 1.5
+            "rank": 1.5,
+            "abbv": "CL"
           }
         ],
         "type": "amistoso",
