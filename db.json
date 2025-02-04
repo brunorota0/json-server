@@ -22,7 +22,7 @@
           }
         ],
         "type": "competitivo",
-        "rankingRange": [0.5, 2],
+        "rankingRange": [0.35, 0.75],
         "price": 6500,
         "lengthInMin": 90
       },
@@ -43,7 +43,7 @@
           }
         ],
         "type": "amistoso",
-        "rankingRange": [0.5, 2],
+        "rankingRange": [0.85, 1.25],
         "price": 7200,
         "lengthInMin": 60
       },
@@ -74,7 +74,7 @@
           }
         ],
         "type": "competitivo",
-        "rankingRange": [0.5, 2],
+        "rankingRange": [0.75, 1.15],
         "price": 5800,
         "lengthInMin": 120
       },
@@ -100,7 +100,7 @@
           }
         ],
         "type": "amistoso",
-        "rankingRange": [0.5, 2],
+        "rankingRange": [1.35, 1.75],
         "price": 5400,
         "lengthInMin": 90
       },
@@ -131,7 +131,7 @@
           }
         ],
         "type": "competitivo",
-        "rankingRange": [0.5, 2],
+        "rankingRange": [2.15, 2.55],
         "price": 7900,
         "lengthInMin": 60
       }
